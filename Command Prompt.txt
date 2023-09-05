@@ -1,0 +1,12 @@
+dir = เปิดไฟล์
+notepad = สร้าง Notepad
+git add = ใส่ของเข้า git
+cd .. = ออก
+cd = เข้า
+git log 
+git config --global user.email "P Tou@gmail.com"
+git config --global user.name "P Tou"
+git add. = update file
+git commit -m "add P Tou"
+git status = เช็คการอัพเดทของ git
+cls = claer หน้าจอ 
